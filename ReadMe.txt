@@ -1,2 +1,3 @@
-### News In Short
-Text Summarization of News Articles
+### News In Short - Text Summarization of News Articles
+
+
