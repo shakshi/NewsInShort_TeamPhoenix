@@ -7,7 +7,7 @@
   - https://www.kaggle.com/disisbig/hindi-text-short-and-large-summarization-corpus
   
 ##### Agenda
-<img src= "Flowchart.png">
+<img src= "flowchart2.png">
 
 
 
