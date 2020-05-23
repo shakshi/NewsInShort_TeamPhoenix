@@ -6,7 +6,7 @@
 - Hindi - Kaggle Dataset 60,000 articles
   - https://www.kaggle.com/disisbig/hindi-text-short-and-large-summarization-corpus
   
-##### Agenda
+##### Procedure
 <img src= "flowchart2.png">
 
 
